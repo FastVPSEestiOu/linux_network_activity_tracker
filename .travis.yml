@@ -1,0 +1,2 @@
+language: go
+install: go get github.com/FastVPSEestiOu/linux_network_activity_tracker
