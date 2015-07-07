@@ -8,13 +8,13 @@ It is re-implementattion (by performance reasons) on golang **linux_network_acti
 Install
 -------
 ```
-git pull https://github.com/FastVPSEestiOu/linux_network_activity_tracker.git
-cd linux_network_activity_tracker
 export GOPATH=$(pwd)
-go build
+go get github.com/FastVPSEestiOu/linux_network_activity_tracker
+go build github.com/FastVPSEestiOu/linux_network_activity_tracker
 ```
 
-And copy binary file to directory in $PATH if it needed.
+Copy binary file **linux_network_activity_tracker** to directory in $PATH if it needed.
+And copy config from ../github.com/FastVPSEestiOu/linux_network_activity_tracker/lnat_config.json for more favorable path.
 
 Usage
 -------
