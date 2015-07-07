@@ -7,6 +7,8 @@ It is re-implementattion (by performance reasons) on golang **linux_network_acti
 
 Install
 -------
+[![Build Status](https://travis-ci.org/FastVPSEestiOu/linux_network_activity_tracker.svg?branch=master)](https://travis-ci.org/FastVPSEestiOu/linux_network_activity_tracker)
+
 ```
 export GOPATH=$(pwd)
 go get github.com/FastVPSEestiOu/linux_network_activity_tracker
