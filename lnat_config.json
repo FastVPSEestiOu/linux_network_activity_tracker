@@ -1,0 +1,7 @@
+[
+{"port":6666,"type":"tcp","port_type":"all","reason":"irc"},
+{"port":6667,"type":"tcp","port_type":"all","reason":"irc alternative"},
+{"port":9050,"type":"tcp","port_type":"local","reason":"tor"},
+{"port":36008,"type":"tcp","port_type":"remote","reason":"botnet melinda & bill gates"},
+{"port":4443,"type":"tcp","port_type":"local","reason":"/tmp/.estbuild/lib/ld-linux.so.2 rooted"}
+]
